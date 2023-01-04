@@ -8,9 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-![Screen Shot 2022-12-15 at 4 01 38 PM](https://user-images.githubusercontent.com/108239117/207976549-dee14098-7a76-49f3-a086-2b9c5a1aab27.png)
-![Screen Shot 2022-12-15 at 4 01 46 PM](https://user-images.githubusercontent.com/108239117/207976607-ab3dd66c-1361-48f4-a6c8-8a3d46523a29.png)
-![Screen Shot 2022-12-15 at 4 02 05 PM](https://user-images.githubusercontent.com/108239117/207976649-4038ce86-b29c-42a1-81e2-68f61df98ae1.png)
+![Screen Shot 2023-01-04 at 3 00 42 PM](https://user-images.githubusercontent.com/108239117/210649647-fdb2a7ac-1d7b-4b62-8e43-cb3d076fbd19.png)
+![Screen Shot 2023-01-04 at 3 01 02 PM](https://user-images.githubusercontent.com/108239117/210649697-f30bd32d-6234-4e3f-9388-b333ea8a1046.png)
+![Screen Shot 2023-01-04 at 3 02 05 PM](https://user-images.githubusercontent.com/108239117/210649714-a896ae71-df4b-47b6-a517-7ffb0a9c70ba.png)
+
+https://miro.com/app/board/uXjVP86_sPY=/
 
 ### Project Tracker
 
